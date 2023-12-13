@@ -7,12 +7,6 @@ A MERN stack project-website created to allow people to check their stats, see t
 This project is currently in development. Project only has functionality for 1 out of 3 games (CS:GO) and currently lacks a blog feature.
 I also need to add a 404 page and responsive design.
 
-## Project Screen Shots
-
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
-
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
