@@ -1,12 +1,6 @@
 # Game-Stat-Tracker
 A MERN stack project-website created to allow people to check their stats, see the latest news and see upcoming tournaments on multiple games.
 
-
-## Project Status
-
-This project is currently in development. Project only has functionality for 1 out of 3 games (CS:GO) and currently lacks a blog feature.
-I also need to add a 404 page and responsive design.
-
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
